@@ -14,6 +14,8 @@ Google Morse Code 輸入法
 |  **- - - -**  |Backspace|
 |**. . . . - .**|Caps Lock|
 
+使用時，請將連接的裝置（電腦、手機……）切換至英文輸入法
+
 ## 接線：
 
 ![電路](https://github.com/ByronJY/ESP32_BLE_Morse_Keyboard/blob/main/%E9%9B%BB%E8%B7%AF.svg)
